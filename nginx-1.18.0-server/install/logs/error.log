@@ -1,0 +1,5 @@
+2021/03/01 19:51:25 [emerg] 86286#86286: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2021/03/01 19:52:19 [emerg] 86490#86490: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2021/03/01 19:53:09 [emerg] 86791#86791: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2021/03/01 20:03:16 [emerg] 91973#91973: cannot load certificate "./install/conf/cert.crt": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('./install/conf/cert.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2021/03/01 20:03:55 [emerg] 92106#92106: cannot load certificate "./install/conf/cert.crt": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('./install/conf/cert.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
